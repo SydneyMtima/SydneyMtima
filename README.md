@@ -21,9 +21,9 @@ I'm a passionate software engineer who loves to explore new technologies and bui
 
 ## 📫 Let's Connect!
 - [LinkedIn](#) www.linkedin.com/in/sydney-mtima-92190a306
-- [Twitter](#) 
+- [Twitter](#) @mtima_sydn94752
 - [Portfolio](#)
-- [email](#mtimasydney@gmail.com)
+- [email](#)mtimasydney@gmail.com
 
 ---
 
