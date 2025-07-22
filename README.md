@@ -20,7 +20,7 @@ I'm a passionate software engineer who loves to explore new technologies and bui
 - Exploring new tech 🔍
 
 ## 📫 Let's Connect!
-- [LinkedIn](#www.linkedin.com/in/sydney-mtima-92190a306) 
+- [LinkedIn](#) www.linkedin.com/in/sydney-mtima-92190a306
 - [Twitter](#) 
 - [Portfolio](#)
 - [email](#mtimasydney@gmail.com)
