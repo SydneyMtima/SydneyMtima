@@ -5,7 +5,7 @@ I'm a passionate software engineer who loves to explore new technologies and bui
 ## 🚀 Skills
 - **Languages:** Python, Java, C++
 - **Frontend:** React, Tailwind CSS, JavaScript, Flutter
-- **Backend:** Node.js, JavaScript
+- **Backend:** Node.js, ExpreeJs
 - **Database:** MongoDB, Postgress
 - **Game development:** Godot engine
 
