@@ -7,6 +7,7 @@ I'm a passionate software engineer who loves to explore new technologies and bui
 - **Frontend:** React, Tailwind CSS, JavaScript, Flutter
 - **Backend:** Node.js, JavaScript
 - **Database:** MongoDB, Postgress
+- **Game development:** Godot engine
 
 ## 💻 What I Do
 - Building web and backend applications
